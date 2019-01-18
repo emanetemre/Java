@@ -1,6 +1,6 @@
 //Create: Emre EMANET
-//Date: 1/17/2019
-//Name: Array
+//Date: 1/18/2019
+//Name: Set
 package javaogrenme1;
 
 import java.util.HashSet;
