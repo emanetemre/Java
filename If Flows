@@ -1,0 +1,19 @@
+//Create: Emre EMANET
+//Date: 1/18/2019
+//Name: If Flows
+package javaogrenme1;
+
+public class Main {
+	public static void main(String args[]) {
+		int x = 25;
+		int y = 55;
+		
+		if (x>y) {
+			System.out.println("X Y'den büyüktür");
+			}
+		else {
+			System.out.println("Y X'den büyüktür");;
+		}
+			
+	}
+}
