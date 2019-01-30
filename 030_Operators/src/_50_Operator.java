@@ -23,6 +23,10 @@ public class _50_Operator {
 	 a = 5;
 	 a /= 2; // a = a / 5
 	 System.out.println(a);
+		
+	a = 10;
+	a %= 3; // a = a % 3
+	System.out.println(a);
 
 	}
 
